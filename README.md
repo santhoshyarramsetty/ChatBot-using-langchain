@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Hema Kalyan Murapaka - [@kalyanmurapaka274@gmail.com](kalyanmurapaka274@gmail.com)
+Santhosh Yarramsetty - (2200032905cser@gmail.com)
 
 
 ## Acknowledgements
